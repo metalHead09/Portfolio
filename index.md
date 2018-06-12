@@ -1,3 +1,7 @@
+## Welcome to Ali's first portfolio site!
+
+### Nothing to do here really. I will edit this later. For now, I am leaving the rest as it is. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/metalHead09/metalHead09.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
